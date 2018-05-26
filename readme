@@ -1,0 +1,21 @@
+Prolog CLP Programs
+by Jimmy Nguyen (Jimmy@Jimmyworks.net)
+
+Introduction
+
+The files in this repository were generated while learning Prolog 
+and include the following Prolog CLP programs:
+
+1 - Crypt-Arithmetic Puzzle Solver
+2 - Sudoku Puzzle Generator and Solver
+
+Required Steps
+
+1. You will need a load these programs using a Prolog environment. If
+you do not have a Prolog environment installed, you can download and
+install it here:  http://www.swi-prolog.org/Download.html
+
+2. Clone this repository to your local machine.
+3. Run Prolog interactive environment.
+4. Consult the appropriate .pl file.  This can be done with File > Consult...
+5. Execute Prolog statements.
